@@ -14,7 +14,17 @@
 
 ## 🥷 About me | Sobre mí
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="245" alt="GIF animado de programación: Coding Vibe" />
+<p align="center">
+  <a href="https://giphy.com/gifs/kakashi-hatake-codemtcspeed-KG3yx3osVo8Ns0iVDj">
+    <img src="https://media.giphy.com/media/Vc53tkETTLWFhjJoVI/giphy.gif" alt="Kakashi con su técnica de relámpago" width="160" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gifdb.com/gif/kakashi-reading-book-1509a9tkymgsoi6w.html">
+    <img src="https://gifdb.com/images/high/kakashi-reading-book-1509a9tkymgsoi6w.gif" alt="Kakashi leyendo un libro" width="160" />
+  </a>
+</p>
+
+<p align="center"><sub>⚡ Focus & creativity · 📖 Always learning</sub></p>
 
 **`> whoami`** &nbsp; `Pablo / Powah` · `Developer in training`
 
@@ -30,17 +40,13 @@ I'm fascinated by **artificial intelligence** as a creative and technical tool. 
 
 Me fascina la **inteligencia artificial** como herramienta técnica y creativa. Creo que, utilizada con criterio, permite llevar proyectos muchísimo más lejos. También me atraen la **ciberseguridad y el hacking ético**, un campo en el que todavía estoy empezando y que quiero aprender en profundidad.
 
-<div align="center">
+<p align="center">
+  <strong>✦ PROGRAMMING · AI · ETHICAL HACKING · GAME DEV ✦</strong>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="155" alt="GIF de código escribiéndose: Automatic Typing" />
+<p align="center"><sub>Learning in public · Building one project at a time</sub></p>
 
-**✦ PROGRAMMING · AI · ETHICAL HACKING · GAME DEV ✦**
-
-<sub>Learning in public · Building one project at a time</sub>
-
-</div>
-
-<sub>🎞️ GIFs existentes recopilados por [Cool GIFs For GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub). No son creaciones propias.</sub>
+<sub>🎞️ Animaciones originales publicadas en <a href="https://giphy.com/explore/kakashi">GIPHY</a> y <a href="https://gifdb.com/gif/kakashi-reading-book-1509a9tkymgsoi6w.html">GIFDB</a>.</sub>
 
 ---
 
