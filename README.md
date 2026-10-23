@@ -14,6 +14,10 @@
 
 ## 🥷 About me | Sobre mí
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="245" alt="GIF animado de programación: Coding Vibe" />
+
+**`> whoami`** &nbsp; `Pablo / Powah` · `Developer in training`
+
 **🇬🇧 English**
 
 Hey! I'm **Pablo**, also known as **Powah**. Computers have become my biggest passion, and **programming is the part I enjoy most**. I love the feeling of turning an idea into something that actually works.
@@ -25,6 +29,18 @@ I'm fascinated by **artificial intelligence** as a creative and technical tool. 
 ¡Buenas! Soy **Pablo**, aunque también me conocen como **Powah**. Los ordenadores se han convertido en mi gran pasión y, de todo este mundo, **lo que más disfruto es programar**. Me encanta transformar una idea en algo que funcione de verdad.
 
 Me fascina la **inteligencia artificial** como herramienta técnica y creativa. Creo que, utilizada con criterio, permite llevar proyectos muchísimo más lejos. También me atraen la **ciberseguridad y el hacking ético**, un campo en el que todavía estoy empezando y que quiero aprender en profundidad.
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="155" alt="GIF de código escribiéndose: Automatic Typing" />
+
+**✦ PROGRAMMING · AI · ETHICAL HACKING · GAME DEV ✦**
+
+<sub>Learning in public · Building one project at a time</sub>
+
+</div>
+
+<sub>🎞️ GIFs existentes recopilados por [Cool GIFs For GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub). No son creaciones propias.</sub>
 
 ---
 
