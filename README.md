@@ -15,16 +15,10 @@
 ## 🥷 About me | Sobre mí
 
 <p align="center">
-  <a href="https://giphy.com/explore/kakashi-hatake">
-    <img src="https://media.giphy.com/media/Vc53tkETTLWFhjJoVI/giphy.gif" alt="Kakashi con su técnica de relámpago" width="160" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://gifdb.com/gif/kakashi-reading-book-1509a9tkymgsoi6w.html">
-    <img src="https://gifdb.com/images/high/kakashi-reading-book-1509a9tkymgsoi6w.gif" alt="Kakashi leyendo un libro" width="160" />
+  <a href="https://tenor.com/view/naruto-kakashi-sharingan-serious-look-gif-15145497">
+    <img src="https://media1.tenor.com/m/b5hvQxf0A48AAAAd/naruto-kakashi.gif" alt="Kakashi Hatake con su Sharingan, escena seria del anime" width="420" />
   </a>
 </p>
-
-<p align="center"><sub>⚡ Focus & creativity · 📖 Always learning</sub></p>
 
 **`> whoami`** &nbsp; `Pablo / Powah` · `Developer in training`
 
@@ -41,12 +35,18 @@ I'm fascinated by **artificial intelligence** as a creative and technical tool. 
 Me fascina la **inteligencia artificial** como herramienta técnica y creativa. Creo que, utilizada con criterio, permite llevar proyectos muchísimo más lejos. También me atraen la **ciberseguridad y el hacking ético**, un campo en el que todavía estoy empezando y que quiero aprender en profundidad.
 
 <p align="center">
+  <a href="https://tenor.com/es/view/kakashi-kakashi-hatake-kakashi-edit-gif-25350916">
+    <img src="https://media1.tenor.com/m/-B7vsMkvdPAAAAAd/kakashi-kakashi-hatake.gif" alt="Kakashi Hatake en escenas de acción y combate" width="420" />
+  </a>
+</p>
+
+<p align="center">
   <strong>✦ PROGRAMMING · AI · ETHICAL HACKING · GAME DEV ✦</strong>
 </p>
 
 <p align="center"><sub>Learning in public · Building one project at a time</sub></p>
 
-<sub>🎞️ Animaciones originales publicadas en <a href="https://giphy.com/explore/kakashi">GIPHY</a> y <a href="https://gifdb.com/gif/kakashi-reading-book-1509a9tkymgsoi6w.html">GIFDB</a>.</sub>
+<sub>🎞️ GIFs publicados por sus creadores en <a href="https://tenor.com/view/naruto-kakashi-sharingan-serious-look-gif-15145497">Tenor (Sharingan)</a> y <a href="https://tenor.com/es/view/kakashi-kakashi-hatake-kakashi-edit-gif-25350916">Tenor (Kakashi)</a>.</sub>
 
 ---
 
