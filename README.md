@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="assets/shinobi-banner.svg" alt="Pablo | Powah. Building what I wish existed. Shinobi-inspired night design." width="100%">
-
-<br>
-
 **Developer in training · Software creator in progress · Curious by nature**
 
 **Desarrollador en formación · Creador de software en proceso · Curioso por naturaleza**
