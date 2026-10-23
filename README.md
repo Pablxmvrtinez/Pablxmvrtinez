@@ -15,7 +15,7 @@
 ## 🥷 About me | Sobre mí
 
 <p align="center">
-  <a href="https://giphy.com/gifs/kakashi-hatake-codemtcspeed-KG3yx3osVo8Ns0iVDj">
+  <a href="https://giphy.com/explore/kakashi-hatake">
     <img src="https://media.giphy.com/media/Vc53tkETTLWFhjJoVI/giphy.gif" alt="Kakashi con su técnica de relámpago" width="160" />
   </a>
   &nbsp;&nbsp;
